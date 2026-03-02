@@ -197,7 +197,7 @@
     "explanation": "Recipient takes に with 教える. (Pattern set 2)",
     "id": 25,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "図書館に本を借りました。",
@@ -205,7 +205,7 @@
     "explanation": "で marks location of action. (Pattern set 2)",
     "id": 26,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "私は昨日東京に行きます。",
@@ -220,7 +220,7 @@
     "correct": "東京は人が多くて、きれいです。",
     "explanation": "Use て-form to connect clauses. (Pattern set 2)",
     "id": 28,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
