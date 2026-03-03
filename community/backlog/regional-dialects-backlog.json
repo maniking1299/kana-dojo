@@ -127,7 +127,7 @@
     "note": "Strong Nagoya marker. (Set 1)",
     "id": 13,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "ぶち",
@@ -137,7 +137,7 @@
     "note": "Regional intensifier. (Set 1)",
     "id": 14,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜じゃけぇ",
@@ -147,7 +147,7 @@
     "note": "Common causal ending. (Set 1)",
     "id": 15,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "いけん",
@@ -156,7 +156,7 @@
     "region": "Chugoku",
     "note": "Prohibitive nuance. (Set 1)",
     "id": 16,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
