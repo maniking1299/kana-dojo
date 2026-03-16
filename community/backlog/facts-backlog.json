@@ -449,12 +449,12 @@
     "id": 75,
     "fact": "The word 'enryo' (遠慮) describes polite restraint - like declining seconds even when hungry, to not be a burden.",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 76,
     "fact": "Japan has a zero-tolerance policy for drunk driving - any detectable alcohol means immediate arrest and potential prison time.",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
